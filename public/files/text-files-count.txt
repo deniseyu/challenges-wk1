@@ -1,3 +1,3 @@
-Number of files on system with .txt extension
+Number of .txt files in system
 
-  164793
+     101
